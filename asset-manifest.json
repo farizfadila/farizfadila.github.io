@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.084799e7.css",
-    "main.js": "/static/js/main.6e4ba6d7.js",
+    "main.js": "/static/js/main.23efcad4.js",
     "static/media/FARIZ_FADILA_CV.pdf": "/static/media/FARIZ_FADILA_CV.2009ef5042cd065df7a2.pdf",
     "static/media/portfolio5.png": "/static/media/portfolio5.21de330469ae24576e64.png",
     "static/media/portfolio1.jpg": "/static/media/portfolio1.30700810eac2b330fb6f.jpg",
@@ -13,10 +13,10 @@
     "static/media/portfolio2.jpg": "/static/media/portfolio2.5f1825a23c007c430c74.jpg",
     "index.html": "/index.html",
     "main.084799e7.css.map": "/static/css/main.084799e7.css.map",
-    "main.6e4ba6d7.js.map": "/static/js/main.6e4ba6d7.js.map"
+    "main.23efcad4.js.map": "/static/js/main.23efcad4.js.map"
   },
   "entrypoints": [
     "static/css/main.084799e7.css",
-    "static/js/main.6e4ba6d7.js"
+    "static/js/main.23efcad4.js"
   ]
 }
