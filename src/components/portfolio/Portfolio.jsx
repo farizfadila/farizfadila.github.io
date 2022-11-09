@@ -13,7 +13,7 @@ const data = [
     image: IMG1,
     title: 'Cyclistic (Bike Share) Analysis (R)',
     github: 'https://github.com/farizfadila/google-data-analytics/blob/main/Course%208/studi_kasus_cyclistic.ipynb',
-    demo: 'https://github.com/farizfadila/google-data-analytics/blob/main/Course%208/studi_kasus_cyclistic.ipynb'
+    demo: 'https://youtu.be/9O-H62EhaZ8'
   },
   {
     id: 2,

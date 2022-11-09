@@ -1,6 +1,7 @@
 import React from 'react'
 import "./footer.css"
 import { BsLinkedin } from 'react-icons/bs'
+import { BsYoutube } from 'react-icons/bs'
 import { FaGithub } from 'react-icons/fa'
 import { SiTableau } from 'react-icons/si'
 
@@ -16,6 +17,7 @@ const Footer = () => {
         <li><a href="#contact"> Contact </a></li>
       </ul>
       <div className="footer__socials">
+        <a href="https://www.youtube.com/@farizfadila"><BsYoutube /></a>
         <a href="https://www.linkedin.com/in/farizfadila/"><BsLinkedin /></a>
         <a href="https://github.com/farizfadila"><FaGithub /></a>
         <a href="https://public.tableau.com/app/profile/farizfadila"><SiTableau /></a>
